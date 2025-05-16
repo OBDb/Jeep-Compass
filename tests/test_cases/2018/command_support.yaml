@@ -45,7 +45,7 @@ supported_commands_by_ecu:
   - 0151:FUEL_TYP
 unsupported_commands_by_ecu:
   6B4:
-  - 6B4.694.22D410
+  - 6B4.694.22D410:JEEP_HVBAT_SOC
   DB33:
   - DB33.0101
   - DB33.0103
