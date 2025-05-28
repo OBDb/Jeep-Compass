@@ -8,3 +8,8 @@ test_cases:
     18DAF11803414914
   expected_values:
     APP_D: 7.84314
+- response: |-
+    18DAF11003414926
+    18DAF11803414926
+  expected_values:
+    APP_D: 14.90196

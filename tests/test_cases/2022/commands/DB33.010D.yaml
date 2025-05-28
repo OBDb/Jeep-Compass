@@ -8,3 +8,8 @@ test_cases:
     18DAF11803410D00
   expected_values:
     VSS: 0
+- response: |-
+    18DAF11003410D04
+    18DAF11803410D03
+  expected_values:
+    VSS: 3
