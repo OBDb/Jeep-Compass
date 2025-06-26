@@ -1,14 +1,11 @@
 command_id: DB33.01A6
 test_cases:
-- response: 18DAF1100641A6000BBFDA
-  expected_values:
+- expected_values:
     ODO: 77001
-- response: 18DAF1100641A6000BD6F0
-  expected_values:
-    ODO: 77592
-- response: 18DAF1100641A6000BE14A
-  expected_values:
-    ODO: 77857
-- response: 18DAF1100641A6000BECA8
-  expected_values:
-    ODO: 78148
+  response: 18DAF1100641A6000BBFDA
+- expected_values:
+    ODO: 78463
+  response: 18DAF1100641A6000BF8F6
+- expected_values:
+    ODO: 78464
+  response: 18DAF1100641A6000BF900
