@@ -41,6 +41,7 @@ supported_commands_by_ecu:
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
   - 7E0.010D:VSS
+  - 7E0.0111:TP
   - 7E0.011F:RUNTM
   - 7E0.012F:FLI
   - 7E0.0131:CLR_DIST
@@ -55,6 +56,8 @@ supported_commands_by_ecu:
   - 0121:MIL_DIST
   - 0130:WARM_UPS
   - 0131:CLR_DIST
+  - 0142:VPWR
+  - 0149:APP_D
   - 7E1.7E9.2204FE:JEEP_ATF_T
 unsupported_commands_by_ecu:
   "6B4":
