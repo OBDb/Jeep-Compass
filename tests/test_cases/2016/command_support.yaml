@@ -59,6 +59,7 @@ supported_commands_by_ecu:
   - 0142:VPWR
   - 0149:APP_D
   - 7E1.7E9.0131
+  - 7E1.7E9.215C|fc=1:JEEP_ATF_T_3RDGEN_V2
   - 7E1.7E9.2204FE:JEEP_ATF_T
 unsupported_commands_by_ecu:
   "6B4":
@@ -81,7 +82,6 @@ unsupported_commands_by_ecu:
   - 7E0.7E8.22043B:JEEP_ODO
   "7E1":
   - 7E1.7E9.2118|fc=1:JEEP_ATF_T_3RDGEN
-  - 7E1.7E9.215C|fc=1:JEEP_ATF_T_3RDGEN_V2
   - 7E1.7E9.225503|fc=1:JEEP_GEAR
   - 7E1.7E9.225504|fc=1:JEEP_GEAR_TARGET
   "DA10":
