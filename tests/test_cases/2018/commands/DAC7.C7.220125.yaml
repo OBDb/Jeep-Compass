@@ -4,6 +4,11 @@ test_cases:
     JEEP_TID_RL: 0
   response: |-
     18DAF1C7100D620125000000
+    18DAF1C7210000000000A100
+- expected_values:
+    JEEP_TID_RL: 0
+  response: |-
+    18DAF1C7100D620125000000
     18DAF1C7210000000000C000
 - expected_values:
     JEEP_TID_RL: 1703999
