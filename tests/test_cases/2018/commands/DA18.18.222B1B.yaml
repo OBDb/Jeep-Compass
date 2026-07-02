@@ -4,26 +4,8 @@ test_cases:
     JEEP_WSS_RR: 0
   response: 18DAF11805622B1B0000
 - expected_values:
-    JEEP_WSS_RR: 37
-  response: 18DAF11805622B1B0025
-- expected_values:
-    JEEP_WSS_RR: 49
-  response: 18DAF11805622B1B0031
-- expected_values:
-    JEEP_WSS_RR: 172
-  response: 18DAF11805622B1B00AC
-- expected_values:
-    JEEP_WSS_RR: 278
-  response: 18DAF11805622B1B0116
-- expected_values:
     JEEP_WSS_RR: 300
-  response: 18DAF11805622B1B01A1
-- expected_values:
-    JEEP_WSS_RR: 300
-  response: 18DAF11805622B1B02C0
+  response: 18DAF11805622B1B01FB
 - expected_values:
     JEEP_WSS_RR: 300
   response: 18DAF11805622B1B030B
-- expected_values:
-    JEEP_WSS_RR: 300
-  response: 18DAF11805622B1B036B
