@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     JEEP_DPF_FLOW_RES: 0.0172
   response: 18DAF110056218E800AC
+- expected_values:
+    JEEP_DPF_FLOW_RES: 0.0179
+  response: 18DAF110056218E800B3
