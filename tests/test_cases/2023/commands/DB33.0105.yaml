@@ -9,6 +9,34 @@ test_cases:
     ECT: 40
   response: 18DAF11003410550
 - expected_values:
+    ECT: 25
+  response: |-
+    18DAF11003410555
+    18DAF11803410555
+    18DAF14B03410555
+    18DAF14403410541
+- expected_values:
+    ECT: 24
+  response: |-
+    18DAF1100341055F
+    18DAF1180341055F
+    18DAF14B0341055F
+    18DAF14403410540
+- expected_values:
+    ECT: 24
+  response: |-
+    18DAF11003410560
+    18DAF11803410560
+    18DAF14B03410560
+    18DAF14403410540
+- expected_values:
+    ECT: 24
+  response: |-
+    18DAF11003410569
+    18DAF11803410569
+    18DAF14B03410569
+    18DAF14403410540
+- expected_values:
     ECT: 88
   response: |-
     18DAF11003410580
@@ -21,3 +49,17 @@ test_cases:
 - expected_values:
     ECT: 96
   response: 18DAF11003410588
+- expected_values:
+    ECT: 25
+  response: |-
+    18DAF11803410555
+    18DAF11003410555
+    18DAF14B03410555
+    18DAF14403410541
+- expected_values:
+    ECT: 24
+  response: |-
+    18DAF14B03410568
+    18DAF11003410568
+    18DAF11803410568
+    18DAF14403410540
