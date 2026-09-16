@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     JEEP_OIL_PUMP: 7
   response: 18DAF1100462194F07
+- expected_values:
+    JEEP_OIL_PUMP: 10
+  response: 18DAF1100462194F0A
