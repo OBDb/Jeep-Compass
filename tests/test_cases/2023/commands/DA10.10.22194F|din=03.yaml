@@ -4,11 +4,20 @@ test_cases:
     JEEP_OIL_PUMP: 1
   response: 18DAF1100462194F01
 - expected_values:
+    JEEP_OIL_PUMP: 2
+  response: 18DAF1100462194F02
+- expected_values:
     JEEP_OIL_PUMP: 3
   response: 18DAF1100462194F03
 - expected_values:
     JEEP_OIL_PUMP: 7
   response: 18DAF1100462194F07
 - expected_values:
+    JEEP_OIL_PUMP: 8
+  response: 18DAF1100462194F08
+- expected_values:
     JEEP_OIL_PUMP: 10
   response: 18DAF1100462194F0A
+- expected_values:
+    JEEP_OIL_PUMP: 13
+  response: 18DAF1100462194F0D
