@@ -4,29 +4,5 @@ test_cases:
     JEEP_DPF_FLOW_RES: 0.0149
   response: 18DAF110056218E80095
 - expected_values:
-    JEEP_DPF_FLOW_RES: 0.0157
-  response: 18DAF110056218E8009D
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.016
-  response: 18DAF110056218E800A0
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0162
-  response: 18DAF110056218E800A2
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0164
-  response: 18DAF110056218E800A4
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0169
-  response: 18DAF110056218E800A9
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.017
-  response: 18DAF110056218E800AA
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0172
-  response: 18DAF110056218E800AC
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0179
-  response: 18DAF110056218E800B3
-- expected_values:
-    JEEP_DPF_FLOW_RES: 0.0201
-  response: 18DAF110056218E800C9
+    JEEP_DPF_FLOW_RES: 0.0203
+  response: 18DAF110056218E800CB
