@@ -31,6 +31,11 @@ test_cases:
     18DAF1C7100D620125003E00
     18DAF1C72190009000F0BD00
 - expected_values:
+    JEEP_TID_RL: 7143629
+  response: |-
+    18DAF1C7100D620125006D00
+    18DAF1C721CD00FC0020C200
+- expected_values:
     JEEP_TID_RL: 8257781
   response: |-
     18DAF1C7100D620125007E00
@@ -40,11 +45,6 @@ test_cases:
   response: |-
     18DAF1C7100D620125009F00
     18DAF1C7219F00A400A18E00
-- expected_values:
-    JEEP_TID_RL: 11796635
-  response: |-
-    18DAF1C7100D62012500B400
-    18DAF1C7219B00F7001E9000
 - expected_values:
     JEEP_TID_RL: 16449613
   response: |-
