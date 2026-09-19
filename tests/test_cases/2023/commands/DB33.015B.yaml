@@ -13,7 +13,7 @@ test_cases:
 - expected_values:
     BAT_SOC: 94.11765
   response: |-
-    18DAF14B03415BF1
+    18DAF14B03415BF0
     18DAF14403415BF0
 - expected_values:
     BAT_SOC: 95.68627
