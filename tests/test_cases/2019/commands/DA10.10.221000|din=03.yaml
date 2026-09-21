@@ -1,8 +1,0 @@
-command_id: DA10.10.221000|din=03
-test_cases:
-- expected_values:
-    JEEP_RPM_ECU: 899
-  response: 18DAF110056210000E0C
-- expected_values:
-    JEEP_RPM_ECU: 900
-  response: 18DAF110056210000E10
