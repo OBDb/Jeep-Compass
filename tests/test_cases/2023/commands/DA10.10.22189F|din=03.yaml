@@ -1,0 +1,10 @@
+command_id: DA10.10.22189F|din=03
+test_cases:
+- expected_values:
+    JEEP_VGT_CMD: 0
+  response: 18DAF1100562189F0000
+- expected_values:
+    JEEP_VGT_CMD: 0
+  response: |-
+    18DAF110056219550000
+    18DAF1100562189F0000
