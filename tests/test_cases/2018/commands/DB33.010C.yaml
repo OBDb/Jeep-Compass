@@ -4,6 +4,9 @@ test_cases:
     RPM: 0
   response: 18DAF11004410C0000
 - expected_values:
+    RPM: 166
+  response: 18DAF11004410C0298
+- expected_values:
     RPM: 743
   response: |-
     18DAF11004410C0B90
@@ -23,9 +26,6 @@ test_cases:
   response: |-
     18DAF11004410C1A00
     18DAF11804410C1A00
-- expected_values:
-    RPM: 2086
-  response: 18DAF11004410C2098
 - expected_values:
     RPM: 2095
   response: |-
