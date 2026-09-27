@@ -1,0 +1,11 @@
+command_id: DA18.221D12
+test_cases:
+- expected_values:
+    JEEP_GEAR: 2
+  response: 18DAF11804621D1202
+- expected_values:
+    JEEP_GEAR: 3
+  response: 18DAF11804621D1203
+- expected_values:
+    JEEP_GEAR: 6
+  response: 18DAF11804621D1206
