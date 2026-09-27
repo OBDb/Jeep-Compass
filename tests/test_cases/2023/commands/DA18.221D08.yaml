@@ -1,0 +1,17 @@
+command_id: DA18.221D08
+test_cases:
+- expected_values:
+    JEEP_AT_INPUT_RPM: 0
+  response: 18DAF11804621D0800
+- expected_values:
+    JEEP_AT_INPUT_RPM: 150
+  response: 18DAF11804621D0806
+- expected_values:
+    JEEP_AT_INPUT_RPM: 175
+  response: 18DAF11804621D0807
+- expected_values:
+    JEEP_AT_INPUT_RPM: 200
+  response: 18DAF11804621D0808
+- expected_values:
+    JEEP_AT_INPUT_RPM: 275
+  response: 18DAF11804621D080B

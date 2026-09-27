@@ -1,0 +1,23 @@
+command_id: DA18.221D07
+test_cases:
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 0
+  response: 18DAF11804621D0700
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 200
+  response: 18DAF11804621D0708
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 575
+  response: 18DAF11804621D0717
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 600
+  response: 18DAF11804621D0718
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 875
+  response: 18DAF11804621D0723
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 975
+  response: 18DAF11804621D0727
+- expected_values:
+    JEEP_AT_OUTPUT_RPM: 1000
+  response: 18DAF11804621D0728
