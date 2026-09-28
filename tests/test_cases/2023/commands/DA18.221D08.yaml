@@ -4,5 +4,5 @@ test_cases:
     JEEP_AT_INPUT_RPM: 0
   response: 18DAF11804621D0800
 - expected_values:
-    JEEP_AT_INPUT_RPM: 1500
-  response: 18DAF11804621D083C
+    JEEP_AT_INPUT_RPM: 6000
+  response: 18DAF11804621D08F0
