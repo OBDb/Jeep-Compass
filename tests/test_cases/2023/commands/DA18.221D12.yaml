@@ -13,6 +13,9 @@ test_cases:
     JEEP_GEAR: 4
   response: 18DAF11804621D1204
 - expected_values:
+    JEEP_GEAR: 5
+  response: 18DAF11804621D1205
+- expected_values:
     JEEP_GEAR: 6
   response: 18DAF11804621D1206
 - expected_values:
