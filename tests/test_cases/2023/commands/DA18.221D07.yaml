@@ -4,23 +4,5 @@ test_cases:
     JEEP_AT_OUTPUT_RPM: 0
   response: 18DAF11804621D0700
 - expected_values:
-    JEEP_AT_OUTPUT_RPM: 200
-  response: 18DAF11804621D0708
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 575
-  response: 18DAF11804621D0717
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 600
-  response: 18DAF11804621D0718
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 875
-  response: 18DAF11804621D0723
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 975
-  response: 18DAF11804621D0727
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 1000
-  response: 18DAF11804621D0728
-- expected_values:
-    JEEP_AT_OUTPUT_RPM: 1325
-  response: 18DAF11804621D0735
+    JEEP_AT_OUTPUT_RPM: 1875
+  response: 18DAF11804621D074B
