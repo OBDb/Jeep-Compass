@@ -1,0 +1,5 @@
+command_id: DA18.18.222102|f=2017-
+test_cases:
+- expected_values:
+    COMPASS_GEARBOX_RPM: 873
+  response: 18DAF118056221020DA4

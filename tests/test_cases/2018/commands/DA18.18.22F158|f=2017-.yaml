@@ -1,0 +1,8 @@
+command_id: DA18.18.22F158|f=2017-
+test_cases:
+- expected_values:
+    COMPASS_MODEL_YEAR: 2018
+  response: 18DAF1180762F158125D0802
+- expected_values:
+    COMPASS_MODEL_YEAR: 2018
+  response: 18DAF1180762F158125D0804

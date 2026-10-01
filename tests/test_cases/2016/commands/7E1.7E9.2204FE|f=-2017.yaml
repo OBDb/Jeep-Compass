@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2204FE|f=-2017
+test_cases:
+- expected_values:
+    COMPASS_TRANS_T_VAR_2: 87.8
+  response: 7E9046204FE47
+- expected_values:
+    COMPASS_TRANS_T_VAR_2: 163.4
+  response: 7E9046204FE71

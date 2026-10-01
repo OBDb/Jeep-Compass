@@ -1,0 +1,18 @@
+command_id: DA18.18.22051A|f=2017-
+test_cases:
+- expected_values:
+    COMPASS_GEAR_CURRENT: 2
+    COMPASS_GEAR_DESIRED: 2
+  response: 18DAF1180462051A22
+- expected_values:
+    COMPASS_GEAR_CURRENT: 3
+    COMPASS_GEAR_DESIRED: 4
+  response: 18DAF1180462051A43
+- expected_values:
+    COMPASS_GEAR_CURRENT: 4
+    COMPASS_GEAR_DESIRED: 4
+  response: 18DAF1180462051A44
+- expected_values:
+    COMPASS_GEAR_CURRENT: 5
+    COMPASS_GEAR_DESIRED: 5
+  response: 18DAF1180462051A55
