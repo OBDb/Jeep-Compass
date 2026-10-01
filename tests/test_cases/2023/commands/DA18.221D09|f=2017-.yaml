@@ -1,0 +1,13 @@
+command_id: DA18.221D09|f=2017-
+test_cases:
+- expected_values:
+    COMPASS_ATF_T: 75
+  response: |-
+    18DAF11804621D081D
+    18DAF11804621D097D
+- expected_values:
+    COMPASS_ATF_T: 14
+  response: 18DAF11804621D0940
+- expected_values:
+    COMPASS_ATF_T: 78
+  response: 18DAF11804621D0980
