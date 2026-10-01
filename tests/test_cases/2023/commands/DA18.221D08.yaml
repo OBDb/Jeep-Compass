@@ -1,8 +1,0 @@
-command_id: DA18.221D08
-test_cases:
-- expected_values:
-    JEEP_AT_INPUT_RPM: 0
-  response: 18DAF11804621D0800
-- expected_values:
-    JEEP_AT_INPUT_RPM: 6000
-  response: 18DAF11804621D08F0

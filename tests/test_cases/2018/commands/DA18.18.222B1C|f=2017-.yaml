@@ -1,0 +1,11 @@
+command_id: DA18.18.222B1C|f=2017-
+test_cases:
+- expected_values:
+    COMPASS_WSS_RL: 0
+  response: 18DAF11805622B1C0000
+- expected_values:
+    COMPASS_WSS_RL: 511
+  response: 18DAF11805622B1C01FF
+- expected_values:
+    COMPASS_WSS_RL: 778
+  response: 18DAF11805622B1C030A
