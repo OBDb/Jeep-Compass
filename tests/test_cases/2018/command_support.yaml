@@ -128,6 +128,8 @@ supported_commands_by_ecu:
   - DB33.014C:TAC_PCT
   - DB33.0151:FUEL_TYP
 unsupported_commands_by_ecu:
+  "6A2":
+  - 6A2.682.22D402
   "6B4":
   - 6B4.694.22D410
   "740":
