@@ -589,19 +589,19 @@
   "signals": [
     {"id": "COMPASS_EGR_COOLER_T", "path": "Engine", "fmt": { "len": 16, "max": 900, "min": -40, "mul": 2, "div": 100, "add": -40, "unit": "celsius" }, "name": "Exhaust gas recirculation cooler downstream temperature"}
   ]},
-{ "hdr": "DA18", "cmd": {"22": "1D07"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "DA18", "cmd": {"22": "1D07"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "COMPASS_AT_OUTPUT_RPM", "path": "Transmission", "fmt": { "len": 8, "max": 6375, "mul": 25, "unit": "rpm" }, "name": "Transmission output speed"}
   ]},
-{ "hdr": "DA18", "cmd": {"22": "1D08"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "DA18", "cmd": {"22": "1D08"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "COMPASS_AT_INPUT_RPM", "path": "Transmission", "fmt": { "len": 8, "max": 6375, "mul": 25, "unit": "rpm" }, "name": "Transmission input speed"}
   ]},
-{ "hdr": "DA18", "cmd": {"22": "1D09"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "DA18", "cmd": {"22": "1D09"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "COMPASS_ATF_T", "path": "Transmission", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Automatic transmission temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA18", "cmd": {"22": "1D12"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
+{ "hdr": "DA18", "cmd": {"22": "1D12"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "COMPASS_GEAR", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
   ]},
