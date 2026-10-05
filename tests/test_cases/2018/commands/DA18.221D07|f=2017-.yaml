@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     COMPASS_AT_OUTPUT_RPM: 0
   response: 18DAF11804621D0700
+- expected_values:
+    COMPASS_AT_OUTPUT_RPM: 1250
+  response: 18DAF11804621D0732

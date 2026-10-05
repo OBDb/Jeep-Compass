@@ -1,5 +1,11 @@
 command_id: DA18.221D08|f=2017-
 test_cases:
 - expected_values:
+    COMPASS_AT_INPUT_RPM: 0
+  response: 18DAF11804621D0800
+- expected_values:
     COMPASS_AT_INPUT_RPM: 725
   response: 18DAF11804621D081D
+- expected_values:
+    COMPASS_AT_INPUT_RPM: 1925
+  response: 18DAF11804621D084D

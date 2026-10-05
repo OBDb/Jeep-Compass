@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     COMPASS_ATF_T: 89
   response: 18DAF11804621D098B
+- expected_values:
+    COMPASS_ATF_T: 96
+  response: 18DAF11804621D0992
+- expected_values:
+    COMPASS_ATF_T: 97
+  response: 18DAF11804621D0993
+- expected_values:
+    COMPASS_ATF_T: 99
+  response: 18DAF11804621D0995
