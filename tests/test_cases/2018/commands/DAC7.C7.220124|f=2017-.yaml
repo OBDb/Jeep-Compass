@@ -1,15 +1,15 @@
 command_id: DAC7.C7.220124|f=2017-
 test_cases:
 - expected_values:
+    COMPASS_TID_FR: 1229867337
+  response: |-
+    18DAF1C7100D620124494E49
+    18DAF1C72149000000000100
+- expected_values:
     COMPASS_TID_FR: 1246515023
   response: |-
     18DAF1C7100D6201244A4C4F
     18DAF1C7214F00400000010F
-- expected_values:
-    COMPASS_TID_FR: 1263487562
-  response: |-
-    18DAF1C7100D6201244B4F4A
-    18DAF1C7214A000000000100
 - expected_values:
     COMPASS_TID_FR: 1347702608
   response: |-
