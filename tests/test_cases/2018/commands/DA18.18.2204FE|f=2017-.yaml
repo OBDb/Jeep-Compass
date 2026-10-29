@@ -1,8 +1,8 @@
 command_id: DA18.18.2204FE|f=2017-
 test_cases:
 - expected_values:
-    COMPASS_ATF_T_4THGEN: 10
-  response: 18DAF118046204FE32
+    COMPASS_ATF_T_4THGEN: 7
+  response: 18DAF118046204FE2F
 - expected_values:
     COMPASS_ATF_T_4THGEN: 74
   response: 18DAF118046204FE72
