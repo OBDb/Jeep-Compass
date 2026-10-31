@@ -4,5 +4,5 @@ test_cases:
     COMPASS_ATF_T_4THGEN: 7
   response: 18DAF118046204FE2F
 - expected_values:
-    COMPASS_ATF_T_4THGEN: 74
-  response: 18DAF118046204FE72
+    COMPASS_ATF_T_4THGEN: 76
+  response: 18DAF118046204FE74
