@@ -40,10 +40,10 @@ test_cases:
     RPM: 2134
   response: 18DAF11004410C2158
 - expected_values:
-    RPM: 2458
+    RPM: 2446
   response: |-
-    18DAF11004410C2688
-    18DAF11804410C2668
+    18DAF11004410C2650
+    18DAF11804410C2638
 - expected_values:
     RPM: 754
   response: |-
